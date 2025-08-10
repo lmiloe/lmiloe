@@ -136,9 +136,10 @@ Specialties:
 
 ## 🤝 Let's Connect!
 
-🔗 **LinkedIn:** [Laura MILOE](https://www.linkedin.com/in/laura-miloe)  
-📧 **Email:** miloe.laura@hotmail.com  
-📍 **Location:** Île-de-France, France  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Laura%20MILOE-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-miloe)
+[![Email](https://img.shields.io/badge/Email-miloe.laura%40hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:miloe.laura@hotmail.com)
+
+📍 **Location:** Île-de-France, France
 
 💬 **I love discussing:**
 - 🏗️ Modern infrastructure architecture
