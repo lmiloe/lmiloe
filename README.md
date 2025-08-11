@@ -158,4 +158,8 @@ Specialties:
 🚀 **Personal projects:** Following Stephane ROBERT's courses (https://blog.stephane-robert.info)  
 📚 **Tech watch:** GitOps, Infrastructure as Code, Modern Monitoring  
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=lmiloe.lmiloe)
+<p align="left">
+  <a href="https://github.com/lmiloe">
+    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=lmiloe">
+  </a>
+</p>
